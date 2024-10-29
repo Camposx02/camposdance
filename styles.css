@@ -2,4 +2,11 @@ body{
 
     color:BLACK;
     background: pink;
+    margin: 0px;
+}
+
+
+    header {
+        border-bottom: solid 2px black;
+        padding: 20px;
 }
